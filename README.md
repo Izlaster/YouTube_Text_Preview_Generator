@@ -36,10 +36,3 @@
 6. Выполните команду: `docker-compose up -d`
 7. Приложение будет доступно по адресу: `http://localhost:8000`
 
-
-## Запуск Docker-Compose
-В папке ./docker пропишите команду для запуска:
-
-    ```
-    docker-compose up -d 
-    ``` 
