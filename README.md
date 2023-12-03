@@ -31,9 +31,10 @@
 1. Установите Docker и Docker Compose.
 2. Склонируйте репозиторий: `git clone https://github.com/Izlaster/YouTube_Text_Preview_Generator.git`
 3. Перейдите в директорию проекта: `cd YouTube_Text_Preview_Generator`
-4. Зайти в файл src/config.py и установить туда свой API ключ от Youtube v3 [Ссылка для получения API ключа](https://console.cloud.google.com/apis/credentials)
-5. Выполните команду: `docker-compose up -d`
-6. Приложение будет доступно по адресу: `http://localhost:8000`
+4. Зайти в файл src/config.py и установить туда свой API ключ от Youtube v3
+   - [Ссылка для получения API ключа](https://console.cloud.google.com/apis/credentials)
+6. Выполните команду: `docker-compose up -d`
+7. Приложение будет доступно по адресу: `http://localhost:8000`
 
 
 ## Запуск Docker-Compose
